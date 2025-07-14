@@ -71,7 +71,6 @@ dataset = [
 "go",
 "scala",
 "r",
-"sql",
 "perl",
 "lua",
 "objective-c",
